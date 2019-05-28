@@ -1,0 +1,46 @@
+C:\Users\andrew\source\repos\adcLab1\adcLab1\bin\Debug\adcLab1.exe.config
+C:\Users\andrew\source\repos\adcLab1\adcLab1\bin\Debug\adcLab1.exe
+C:\Users\andrew\source\repos\adcLab1\adcLab1\bin\Debug\adcLab1.pdb
+C:\Users\andrew\source\repos\adcLab1\adcLab1\obj\Debug\adcLab1.csprojAssemblyReference.cache
+C:\Users\andrew\source\repos\adcLab1\adcLab1\obj\Debug\adcLab1.Form1.resources
+C:\Users\andrew\source\repos\adcLab1\adcLab1\obj\Debug\adcLab1.Properties.Resources.resources
+C:\Users\andrew\source\repos\adcLab1\adcLab1\obj\Debug\adcLab1.csproj.GenerateResource.cache
+C:\Users\andrew\source\repos\adcLab1\adcLab1\obj\Debug\adcLab1.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\adcLab1\adcLab1\obj\Debug\adcLab1.exe
+C:\Users\andrew\source\repos\adcLab1\adcLab1\obj\Debug\adcLab1.pdb
+C:\Users\User\Desktop\adcLab1\adcLab1\bin\Debug\adcLab1.exe.config
+C:\Users\User\Desktop\adcLab1\adcLab1\bin\Debug\adcLab1.exe
+C:\Users\User\Desktop\adcLab1\adcLab1\bin\Debug\adcLab1.pdb
+C:\Users\User\Desktop\adcLab1\adcLab1\obj\Debug\adcLab1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\adcLab1\adcLab1\obj\Debug\adcLab1.Form1.resources
+C:\Users\User\Desktop\adcLab1\adcLab1\obj\Debug\adcLab1.Properties.Resources.resources
+C:\Users\User\Desktop\adcLab1\adcLab1\obj\Debug\adcLab1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\adcLab1\adcLab1\obj\Debug\adcLab1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\adcLab1\adcLab1\obj\Debug\adcLab1.exe
+C:\Users\User\Desktop\adcLab1\adcLab1\obj\Debug\adcLab1.pdb
+C:\Users\User\Desktop\adcLab1\adcLab1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\User\Desktop\adcLab1\adcLab1\bin\Debug\NPOI.dll
+C:\Users\User\Desktop\adcLab1\adcLab1\bin\Debug\NPOI.OOXML.dll
+C:\Users\User\Desktop\adcLab1\adcLab1\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\User\Desktop\adcLab1\adcLab1\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\User\Desktop\adcLab1\adcLab1\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\User\Desktop\adcLab1\adcLab1\obj\Debug\adcLab1.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\adcLab1\adcLab1\obj\Debug\adcLab1.csproj.CopyComplete
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\bin\Debug\adcLab1.exe.config
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\bin\Debug\adcLab1.exe
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\bin\Debug\adcLab1.pdb
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\bin\Debug\NPOI.dll
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\bin\Debug\NPOI.OOXML.dll
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\obj\Debug\adcLab1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\obj\Debug\adcLab1.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\obj\Debug\adcLab1.Form1.resources
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\obj\Debug\adcLab1.Properties.Resources.resources
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\obj\Debug\adcLab1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\obj\Debug\adcLab1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\obj\Debug\adcLab1.csproj.CopyComplete
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\obj\Debug\adcLab1.exe
+C:\Users\User\Desktop\дамп программы\adcLab1 — копия\adcLab1\obj\Debug\adcLab1.pdb
